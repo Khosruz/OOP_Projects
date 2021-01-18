@@ -1,0 +1,5 @@
+Simple Banking Application
+This simple 20-minute tutorial shows how to make a simple banking application that acts as a checking account. 
+It utilizes print statements, if/else statements, strings, ints, methods, loops, and more. Using these techniques, 
+the bank program created allows the user to deposit money, withdraw money, or check the balance of the account. 
+This is definitely one of the easier projects for a beginner to do once they have learned some fundamental concepts.
