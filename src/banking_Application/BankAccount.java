@@ -56,7 +56,7 @@ public class BankAccount {
 
 		do {
 			System.out.println("|=============================================================|");
-			System.out.println("|*********************** Enter an Option *********************|");
+			System.out.println("|*********************** Select an Option From the List *********************|");
 			System.out.println("|=============================================================|");
 			option = scanner.next().charAt(0);
 			System.out.println("\n");
